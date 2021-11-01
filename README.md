@@ -1,2 +1,2 @@
 # flowchartz
-Flow charts
+Flow charts of alogrithms 
