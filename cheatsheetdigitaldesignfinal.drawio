@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T13:51:29.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P39W6DPBe2kSz-eGDSx2" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T13:52:51.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9_S1m9KYUnH-60S0Vp6v" version="22.1.18" type="github">
   <diagram name="Page-1" id="1fI7LtTeoU0zJGXn7ISi">
-    <mxGraphModel dx="1311" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="CzFrGwOpRJIVh9ln8tWY-44" value="conditional signal assignment , if statement and case statement should be only used inside of a explicit process" style="text;whiteSpace=wrap;fontSize=6;fontFamily=Times New Roman;fillColor=none;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="696.85" y="360" width="153.3" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CzFrGwOpRJIVh9ln8tWY-45" value="the selected signal assigment is an implied process on its own and cant go inside of a explicit process" style="text;whiteSpace=wrap;strokeColor=default;fontSize=6;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="696.7" y="340" width="153.3" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
