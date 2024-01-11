@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T11:43:06.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FQK0gbAWUjne6n0U6Ru_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T11:44:07.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TWSbYrBghkAfmqF80ZCj" version="22.1.18" type="github">
   <diagram name="Page-1" id="1fI7LtTeoU0zJGXn7ISi">
-    <mxGraphModel dx="231" dy="120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry x="590" y="280" width="126.7" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CzFrGwOpRJIVh9ln8tWY-32" value="STD_LOGIC Type Demystified" style="text;whiteSpace=wrap;fontSize=6;fontFamily=Times New Roman;fontColor=#000000;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="620" y="280" width="90" height="10" as="geometry" />
+          <mxGeometry x="626.7" y="360" width="90" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
